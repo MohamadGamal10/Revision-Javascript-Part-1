@@ -1,4 +1,4 @@
-// video 10
+// video 10 Data Types 
 
 // console.log(typeof "hello world"); // string
 // console.log(typeof 123); // number
@@ -11,7 +11,7 @@
 // console.log(typeof null); // object
 // console.log(typeof undefined); // undefined
 
-// video 11
+// video 11 Variables 
 
 // var user = "John"; // var can be deleted
 
@@ -19,13 +19,13 @@
 
 // console.log(first);
 
-// video 12
+// video 12  Identifiers Name Conventions
 
 // var camelCase = "helloWorld";
 // var snake_case = "hello_world";
 // var kebab_case = "hello-world";
 
-// video 13
+// video 13 Var, Let, Const Compare
 
 // var a = 1;
 // var a = 2;
